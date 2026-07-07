@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Oun Pathan
 
-<!--
-**ounpathan33-lgtm/ounpathan33-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Automation Developer
 
-Here are some ideas to get you started:
+I build Python automation tools that help businesses automate repetitive tasks and improve productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 📊 Excel Data Cleaner
+- Clean and process Excel data
+- Remove duplicate records
+- Export cleaned spreadsheets
+- Built with Python, Pandas & OpenPyXL
+
+### 🧾 Invoice Generator Engine
+- Generate professional PDF invoices
+- Automatic tax and total calculations
+- Multi-item invoice support
+- Built with Python & ReportLab
+
+## 🛠️ Technical Skills
+
+- Python
+- Pandas
+- OpenPyXL
+- ReportLab
+- Excel Automation
+- PDF Automation
+- Data Processing
+- Git
+- GitHub
+
+## 💼 Services
+
+- Excel Automation
+- PDF Generation
+- Business Process Automation
+- Python Scripting
+- Data Cleaning
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ounpathan33-lgtm
+
+⭐ Open to freelance opportunities in Python automation and business automation.
